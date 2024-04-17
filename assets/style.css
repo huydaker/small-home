@@ -1,0 +1,153 @@
+.BG-main{
+    /* background: url(img/anh3.jpg) no-repeat ; */
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url(img/1431610.jpg);
+    height: 70vh;
+    background-size: cover;
+    background-position: center center;
+}
+
+.navbar .nav-link {
+    color: #ffffff !important;
+    }
+
+main .img-h{
+    height: 25vh;
+}
+
+main .bi-star{
+    color: #e48303;
+}
+
+header nav{
+    background:rgba(41, 41, 41, 0.671);
+}
+
+.nav-head{
+    font-size: 20px;
+    font-weight:500;
+    padding: 0 50px;
+}
+
+nav .HL-3 a{
+    text-align: center;
+    /* line-height: 51px; */
+     
+}
+
+
+
+.nav-head li{
+    padding: 0 10px;
+}
+
+/* header .text-d .txt-p{
+    max-width: 70%;
+    padding: 40px 80px;
+    background-color: #3b3b3b7c;
+    border-radius: 20px;
+} */
+
+.nav-head li a{
+    color: #000000 !important;
+}
+
+nav .btn-login{
+    background: var(--bs-orange);
+    padding: 8px 25px;
+}
+
+header .text-control{
+    margin-top: 16rem;
+}
+
+
+
+main .bg-1{
+    background-color: aqua !important;
+}
+
+
+main .about h2{
+    padding: 0 0 0 0;
+}
+
+main .product{
+    border-radius: 10px;
+    background-color: #ffffff;
+}
+
+main .product img{
+    width: 100%;
+}
+
+main .h2-0{
+    color:#e48303 ;
+}
+
+main .h2-1{
+    color: #ffffff;
+}
+
+main .wh-bg{
+    background-color: #ffffff;
+    padding: 5rem 0;
+    
+}
+
+main .or-bg{
+    background-color: #e48303;
+    padding: 5rem 0;
+}
+
+main .btn-custom{
+    background-color:#e48303;
+    color: #ffffff;
+    border: #ffffff solid 2px;
+}
+
+main .btn-custom:hover{
+    background-color:#ffffff;
+    color:#e48303;
+    border: #ffffff solid 2px;
+}
+
+
+
+
+
+
+.footer {
+    padding: 40px 0;
+  }
+  
+  .footer h5 {
+    color: #fff;
+    font-size: 18px;
+    margin-bottom: 20px;
+  }
+  
+  .footer p {
+    color: #ccc;
+    font-size: 14px;
+    margin-bottom: 20px;
+  }
+  
+  .social-media {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .social-media li {
+    display: inline-block;
+    margin-right: 10px;
+  }
+  
+  .social-media li a {
+    color: #fff;
+    font-size: 24px;
+  }
+  
+  .social-media li a:hover {
+    color: #ccc;
+  }
